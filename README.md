@@ -1,7 +1,7 @@
 # Dashboard_Relatorio_Projetos
 ## 1. Problema de Negócio
 O setor de Projetos da empresa de consultoria, com foco no gerenciamento e aquisição de novos projetos para a empresa, solicitou um dashboard para acompanhamento de métricas que possam ajuda-los a entender melhor a situação financeira atual da empresa, auxiliando também na tomada de melhores decisões. 
-- Algumas das métricas são: Receita, Lucro, Impostos, DEspesas, total de transações, métodos de transações, Lucro por Mês, entre outros.
+- Algumas das métricas são: Oportunidades de projetos, Projetos FEchados, Setores, Orçamento do projeto, Pagamento do projeto.
 
 ## 2. Estratégia da Solução
 - Planejada uma análise descritiva como suficiente para atender ao problema de negócio.
